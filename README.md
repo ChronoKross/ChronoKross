@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChronoKross
 - 👀 I’m interested in learning #full stack atm, and then I plan on choosing where I want to specialize. 
-- 🌱 I’m currently learning #ruby via Appacademy I first tried c++, then I moved to Java, and now I'm finally choosing ruby as my starting language.
-- 💞️ I’m looking to collaborate on #the whole learning process, I'll have something on here soon.
+- 🌱 I've been studying going on 2yrs now.
 - 📫 How to reach me #you can reach me on Discord @ ChronoKross#1560
 
 <!---
