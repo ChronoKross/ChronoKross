@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChronoKross
 - 👀 I am currently fluent with Javascript, Typescript && hopefully Rust & Go in the future!
 - 🌱 I've been programming going on 4yrs now. I can build a app from start to finish.
-- 📫 How to reach me #you can reach me on Discord @ ChronoKross#1560
+- 📫 How to reach me #you can reach me on Discord @ ChronoKross#1560/ChronoKross
 
 <!---
 ChronoKross/ChronoKross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
