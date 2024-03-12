@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChronoKross
-- 👀 I’m interested in learning #full stack atm, and then I plan on choosing where I want to specialize. 
-- 🌱 I've been programming going on 2yrs now.
+- 👀 I am currently fluent with Javascript, Typescript && hopefully Rust & Go in the future!
+- 🌱 I've been programming going on 4yrs now. I can build a app from start to finish.
 - 📫 How to reach me #you can reach me on Discord @ ChronoKross#1560
 
 <!---
